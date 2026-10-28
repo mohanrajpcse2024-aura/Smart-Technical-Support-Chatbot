@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+python-dotenv
+openai
+nltk
+scikit-learn
+numpy
+pandas
+joblib
